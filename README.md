@@ -133,5 +133,3 @@ The widget returns these direction strings:
 ## License
 
 MIT License - see LICENSE file for details.
-
-# spider_web_controller
