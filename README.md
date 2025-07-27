@@ -16,7 +16,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  spider_web_control: ^1.0.0
+  spider_web_control: ^0.0.2
 ```
 
 ## Usage
