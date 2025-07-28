@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/pub-v0.0.2-blue) ![Static Badge](https://img.shields.io/badge/flutter-%203.32.8-blue) ![Static Badge](https://img.shields.io/badge/licence-MIT-purple)
 
-![Demo](./web_example.gif)
+[![Demo](./web_example.gif)](https://github.com/Zweycinder/spider_web_control/blob/main/web_example.gif)
 
 A customizable spider web control widget for Flutter that detects touch directions with interactive visual effects.
 
