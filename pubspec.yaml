@@ -1,6 +1,6 @@
 name: spider_web_control
 description: A Flutter package for creating interactive spider web-like control widgets with customizable nodes and connections.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/Zweycinder/spider_web_control
 repository: https://github.com/Zweycinder/spider_web_control
 issue_tracker: https://github.com/Zweycinder/spider_web_control/issues
