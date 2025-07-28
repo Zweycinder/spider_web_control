@@ -1,4 +1,5 @@
 # Spider Web Control
+![Static Badge](https://img.shields.io/badge/pub-v0.0.2-blue) ![Static Badge](https://img.shields.io/badge/licence-MIT-purple)
 
 A customizable spider web control widget for Flutter that detects touch directions with interactive visual effects.
 
