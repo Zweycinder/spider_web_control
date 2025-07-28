@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:spider_web_control/spider_web_controller.dart';
+import 'package:spider_web_control/spider_web_control.dart';
 
 void main() {
   runApp(MyApp());
